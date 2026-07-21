@@ -2,9 +2,7 @@
 
 Issues and PRDs for this repo live as GitHub issues. Use the `gh` CLI for all operations.
 
-> **Setup note (2026-07-21):** at the time this file was written, this directory was not yet a
-> git repository and had no remote. `gh` infers the target repo from `git remote -v`, so run
-> `git init` and add a GitHub remote before the skills below will work.
+Repo: [`mjtier/storage-on-broad-com`](https://github.com/mjtier/storage-on-broad-com) (private).
 
 ## Conventions
 
