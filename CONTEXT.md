@@ -1,6 +1,6 @@
 # Storage on Broad — Brochure Site
 
-The public marketing website for the Storage on Broad self-storage facility, taking over `storageonbroad.com` when the facility leaves CSM's hosting. It exists so prospective tenants can find the facility, see what units cost, and make contact — nothing more.
+The public website for the Storage on Broad self-storage facility, taking over `storageonbroad.com` when the facility leaves CSM's hosting. The Facility is not currently accepting new rentals, so the site no longer functions as marketing for prospective tenants — it exists so existing tenants can find the Facility's location, hours, and contact details. Nothing more.
 
 ## Language
 
@@ -9,7 +9,7 @@ The physical self-storage property "Storage on Broad" at 3407 E Broad St, Texark
 _Avoid_: Store, location, property
 
 **Brochure Site**:
-This website — a static marketing page for the Facility: photos, unit sizes, prices, map, and contact details. Explicitly excludes tenant accounts, online payments, and online rental.
+This website — an informational page for existing tenants of the Facility: photos, hours, map, and contact details. Explicitly excludes tenant accounts, online payments, online rental, and (since the Facility is not currently accepting new rentals) published rates or specials.
 _Avoid_: Portal, app, platform
 
 **CSM**:
@@ -23,8 +23,8 @@ _Avoid_: Locker, indoor unit
 An outdoor vehicle/RV/boat parking spot at the Facility. Sizes range 10x10 to 12x40.
 _Avoid_: Parking unit, lot
 
-**Street Rate**:
-The advertised monthly price for a unit size shown on the Brochure Site — distinct from what existing tenants currently pay on the rent roll.
+**Street Rate** _(retired)_:
+Formerly, the advertised monthly price for a unit size shown on the Brochure Site, distinct from what existing tenants currently pay on the rent roll. The Brochure Site no longer publishes rates, so this term no longer applies to any current content — kept here only as a pointer for anyone encountering it in older material.
 _Avoid_: Price, rent, rate (unqualified)
 
 **Access Hours**:
@@ -34,14 +34,18 @@ _Avoid_: Office hours, business hours
 **Phone Hours**:
 When calls to the Facility's number are answered: Mon–Fri 9am–5pm, Sat 9am–12pm.
 
-**Running Special**:
-The promotional framing under which Street Rates appear on the Brochure Site ("current running special") — signals the published rates are limited-time and may change without the site being a standing price commitment.
+**Running Special** _(retired)_:
+Formerly, the promotional framing under which Street Rates appeared on the Brochure Site ("current running special"). No longer used — the site no longer publishes rates or promotional pricing of any kind.
 _Avoid_: Sale, discount, deal
 
 **Broad Self Storage LLC**:
 The legal entity that owns the Facility, named in the Brochure Site's copyright line.
 _Avoid_: Arelius, the company
 
-**Prospective Tenant**:
-A visitor to the Brochure Site who may want to rent a unit. They convert by calling or emailing — never by transacting on the site.
+**Existing Tenant**:
+A current renter of a Climate-Controlled Unit or Parking Space at the Facility. The Brochure Site's sole intended audience — they reach the Facility by calling or emailing for gate access, billing, or account questions.
+_Avoid_: User, customer, lead
+
+**Prospective Tenant** _(retired)_:
+Formerly, a visitor to the Brochure Site who might rent a unit. The Facility is not currently accepting new rentals, so the site no longer addresses or solicits this audience.
 _Avoid_: User, customer, lead
